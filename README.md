@@ -1,5 +1,5 @@
 # tips
-### This is a random file/repo I'll write down some useful stuff for future reference.
+### This is a small repo where I write down random useful stuff for future reference. I usually write stuff down very quickly for myself so I don't forget. Please don't mind the dust.
 
 *Blender's ESCN exporter for Godot:*
 
