@@ -1,8 +1,5 @@
 # tips
-
 ### This is a random file/repo I'll write down some useful stuff for future reference.
-
-----
 
 *Blender's ESCN exporter for Godot:*
 
