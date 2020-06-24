@@ -1,7 +1,7 @@
 # tips
 ### This is a small repo where I write down random useful stuff for future reference. I usually write stuff down very quickly for myself so I don't forget. Please don't mind the dust.
 
-*Blender's ESCN exporter for Godot:*
+*Blender 2.8 - ESCN exporter for Godot 3.2:*
 
 Ok.....
 
